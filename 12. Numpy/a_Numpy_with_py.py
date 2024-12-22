@@ -1,6 +1,5 @@
 """
 given a list
-
 Score = [85, 90, 78, 92, 88]
 """
 import numpy as np
